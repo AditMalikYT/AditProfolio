@@ -641,7 +641,7 @@ export default function App() {
             Insta <span className="text-[10px] opacity-60">↗</span>
           </a>
           <a 
-            href="https://github.com/aditmalik" 
+            href="https://github.com/AditMalikYT" 
             target="_blank" 
             rel="noopener noreferrer"
             onClick={() => playBeep(500, 'triangle', 0.08)}
